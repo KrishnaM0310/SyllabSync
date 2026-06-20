@@ -23,7 +23,7 @@ Instead, students can add their syllabus, let AI extract the important dates, qu
 - Review and edit events before exporting
 - Sign in with Google
 - Export events into Google Calendar
-- AI-powered extraction with Groq, Gemini, or OpenAI support
+- AI-powered extraction with Groq support
 - Basic local date parsing fallback when no AI key is configured
 
 ---
@@ -47,6 +47,4 @@ Instead, students can add their syllabus, let AI extract the important dates, qu
 - Google Calendar API
 - NextAuth
 - Groq API
-- Gemini API
-- OpenAI API
 - Vercel
