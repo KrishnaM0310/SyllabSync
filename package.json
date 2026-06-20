@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
+    "@vercel/analytics": "^2.0.1",
     "googleapis": "^148.0.0",
     "next": "^15.3.3",
     "next-auth": "^4.24.11",
